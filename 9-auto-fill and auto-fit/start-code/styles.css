@@ -4,4 +4,5 @@
 
 .container {
   display: grid;
+  border: 10px solid black;
 }
